@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "global.h": "c",
+        "limits": "c",
+        "type_traits": "cpp",
+        "cstdlib": "cpp",
+        "MOUSE.C": "cpp",
+        "user.h": "c",
+        "queue.h": "c",
+        "calculate.h": "c",
+        "file.h": "c",
+        "ar.h": "c",
+        "stock.h": "c",
+        "draw.h": "c",
+        "page.h": "c",
+        "gene.h": "c",
+        "button.h": "c",
+        "mouse.h": "c",
+        "hzo.h": "c",
+        "dos.h": "c",
+        "stdio.h": "c",
+        "ctype.h": "c",
+        "move.h": "c",
+        "typeinfo": "c",
+        "cmath": "c",
+        "draw2.h": "c",
+        "errno.h": "c",
+        "math.h": "c",
+        "calcu.h": "c",
+        "conio.h": "c"
+    }
+}
